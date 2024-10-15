@@ -9,7 +9,7 @@ This project is based on [rusty-xinput-detour](https://github.com/DavidAngell/ru
 ## Running Example
 ### Prerequisites
 
-You will need Rust and Trackmania to view the example. [Trackmania is free on Epic Games](https://store.epicgames.com/en-US/p/rocket-league) (not sponsored).
+You will need Rust and Trackmania to view the example. [Trackmania is free on Epic Games](https://store.epicgames.com/en-US/p/trackmania) (not sponsored).
 * [Rust](https://www.npmjs.com/)
   ```sh
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -36,19 +36,6 @@ You will need Rust and Trackmania to view the example. [Trackmania is free on Ep
 ### Handling Controller Actions
 See examples in [handle_controller_state.rs](xinput_detour_dll/src/handle_controller_state.rs) to get an understanding of how function scheduler works.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-If you have a suggestion that would make this program better, please fork the repo and create a pull request. Thank You.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
